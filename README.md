@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi there! I am Anurag <br>
-    A creative developer who love to combine beautiful design with clean code.
+    😇 Converting imagination into code.
   </samp>
   <br>
   <br>
