@@ -4,6 +4,7 @@
   <samp>
     :wave: Hi there! I am Anurag <br>
     😇 Converting imagination into code.
+    <p align="middle"> <img src=https://komarev.com/ghpvc/?username=anukaal alt=anukaal/></p>
   </samp>
   <br>
   <br>
