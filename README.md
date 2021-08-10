@@ -33,3 +33,20 @@
 </p>
 </details>
 
+
+<details>
+  <summary>Most used languages :heart: </summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukaal&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="anukaal" /></p>
+</details> <br>
+
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/anukaal?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=anukaal&logoColor=blue" /></a></h4>
+
+<br>
+
+
+
+```python3
+while(!(succeed=try()); )
+```
+<br>
