@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/285475/screenshots/3798124/astronaut.gif" width="50%">
-  <br><br>
-  <samp>
-     Hi there! I am Anurag :wave:<br>
-    😇 Converting imagination into code.<br>
-    Hakuna Matata
-    <p align="middle"> <img src=https://komarev.com/ghpvc/?username=anukaal alt=anukaal/></p>
-  </samp>
-  <br>
-  <br>
-  <br>
-</p>
+<img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/anukaal/anukaal/master/profile_generator/giphy.webp" />
+
+<h1 align="center">Hola 👋  :D , I'm Anurag <img src="https://github.com/anukaal/anukaal/blob/master/profile_generator/Developer.gif" width="65px"></h1>
