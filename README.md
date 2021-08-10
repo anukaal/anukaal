@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Data Science🤩** **Machine Learning**
 
 
-- <details> <summary> 💬 Ask me about Technical stuff and about programming languages😎 </summary> <a href="https://wa.me/" target="blank"><img align="center" src="https://github.com/anukaal/anukaal/blob/master/profile_generator/5ae21cc526c97415d3213554.png" width="35px" /></a>
+- <details> 💬 Ask me about Technical stuff and about programming languages😎 <a href="https://wa.me/" target="blank"><img align="center" src="https://github.com/anukaal/anukaal/blob/master/profile_generator/5ae21cc526c97415d3213554.png" width="35px" /></a>
 </details>  
 
 - <details> <summary> 📫  How to reach me :</summary><a href="mailto:mailanu98@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
