@@ -7,7 +7,7 @@
 <br>
 
 
-- 🕵 Full Stack Developer at The `Thundersharp`
+- 🕵 Software Engineer `Bank Of America`
 
 - 🌱 I’m currently learning **Data Science🤩** , **Machine Learning**
 
