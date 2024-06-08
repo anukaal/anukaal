@@ -6,6 +6,16 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/anukaal) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=anukaal.profileviews-badge)](https://github.com/anukaal) [![followers](https://img.shields.io/github/followers/anukaal?style=social)](https://github.com/anukaal?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/anukaal) [![Repos Badge](https://badges.pufler.dev/repos/anukaal)](https://github.com/anukaal?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anukaal/) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/anukaal/)
 <br>
 
+<br />
+<br />
+<br>
+Hey folks, I'm Anurag, a Software Engineer and Machine Learning / Deep Learning aficionado 🚀.
+I'm proficient in C++, Java, Python, Scala , Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
+I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
+Please feel free to reach out and talk about ideas!
+
+
+
 
 - 🕵 Software Engineer `Bank Of America`
 
